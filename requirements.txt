@@ -1,0 +1,9 @@
+argparse==1.4.0
+np-utils==0.5.12.1
+numpy==1.19.5
+pandas==1.1.5
+python-utils==2.5.6
+sklearn==0.0
+torch==1.8.0+cu101
+torchsummary==1.5.1
+tqdm==4.41.1
